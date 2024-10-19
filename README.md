@@ -1,2 +1,3 @@
-# DSA_lab1
+# DSA_labs
+
 This is my first git repository.
